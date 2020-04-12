@@ -14,7 +14,7 @@ Counter({'b': 3, 'a': 2, 'c': 1})
 Counter({'b': 3, 'a': 2, 'c': 1})  
 Counter({'b': 3, 'a': 2, 'c': 1})
   
-<br/><br/><br/><br/>br/>   
+<br/><br/><br/><br/><br/>   
   
 #### functools.reduce() 
 
