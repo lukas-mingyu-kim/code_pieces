@@ -1,5 +1,5 @@
 
-#### functools.reduce() 
+#### collections.Counter()
 
 <pre><code>
 import collections
