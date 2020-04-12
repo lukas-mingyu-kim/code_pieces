@@ -1,9 +1,7 @@
-# python code to demonstrate working of reduce() 
-  
-# importing functools for reduce() 
+python code to demonstrate working of reduce() 
+
+'''
 import functools 
-  
-# initializing list 
 lis = [ 1 , 3, 5, 6, 2, ]
 
 # using reduce to compute sum of list 
@@ -13,7 +11,9 @@ print (functools.reduce(lambda a,b : a+b,lis))
 # using reduce to compute maximum element from list 
 print ("The maximum element of the list is : ",end="") 
 print (functools.reduce(lambda a,b : a if a > b else b,lis))
+'''
 
+output:
 
-# output: The sum of the list elements is : 17
-# output: TThe maximum element of the list is : 6
+  The sum of the list elements is : 17
+  The maximum element of the list is : 6
